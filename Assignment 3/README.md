@@ -25,3 +25,5 @@
 ![cap](https://github.com/jasminecronin/intro-computer-graphics/blob/master/Assignment%203/images/sol2.png)
 
 ## Demo
+
+![cap](https://github.com/jasminecronin/intro-computer-graphics/blob/master/Assignment%203/demo-gif.gif)
