@@ -42,7 +42,8 @@ USER INPUT:
 
 KNOWN ISSUES:
  - Celestial bodies do not have an axial tilt
- - Celestial bodies do not rotate in an orbit
+ - Celestial bodies rotate in orbit around the sun, however
+   Earth's moon does not rotate around Earth
  - No option to pause animation or adjust speed
 
 All Textures were retrieved from:
